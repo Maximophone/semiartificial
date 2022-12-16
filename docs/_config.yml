@@ -24,8 +24,8 @@ description: >- # this means to ignore newlines until "baseurl:"
   I like to write about philosophy - but I am a terrible writer.
 
   So I use ChatGPT to assist me in formulating my ideas.
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "/semiartificial/" # the subpath of your site, e.g. /blog
+url: "https://maximophone.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 # twitter_username: jekyllrb
 github_username:  Maximophone
 
