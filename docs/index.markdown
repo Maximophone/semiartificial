@@ -12,7 +12,7 @@ layout: default
     <h1><a href="{{ post.url }}">{{ post.title }}</a></h1>
 
     <div class="entry">
-      {{ post.content | truncatewords:40}}
+      {{ post.content | truncatewords:60 }}
     </div>
     
     <a href="{{ post.url }}" class="read-more">Read More</a>
